@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/tutur3u/platform/compare/tanstack-web-v0.4.0...tanstack-web-v0.5.0) (2026-06-29)
+
+
+### Features
+
+* **cron:** add managed cron operations ([24012e6](https://github.com/tutur3u/platform/commit/24012e69771a2be480824aad2916a218afee0d20))
+
 ## [0.4.0](https://github.com/tutur3u/platform/compare/tanstack-web-v0.3.0...tanstack-web-v0.4.0) (2026-06-29)
 
 

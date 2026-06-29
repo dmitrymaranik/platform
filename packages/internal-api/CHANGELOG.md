@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.13.0](https://github.com/tutur3u/platform/compare/internal-api-v0.12.0...internal-api-v0.13.0) (2026-06-29)
+
+
+### Features
+
+* **cron:** add managed cron operations ([24012e6](https://github.com/tutur3u/platform/commit/24012e69771a2be480824aad2916a218afee0d20))
+
+
+### Bug Fixes
+
+* **auth:** show hard IP block support details ([d26684b](https://github.com/tutur3u/platform/commit/d26684b8c7fb2725dacf83a246f08d86ef0e9ef4))
+
 ## [0.12.0](https://github.com/tutur3u/platform/compare/internal-api-v0.11.0...internal-api-v0.12.0) (2026-06-29)
 
 

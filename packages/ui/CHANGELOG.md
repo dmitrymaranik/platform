@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.1](https://github.com/tutur3u/platform/compare/ui-v0.11.0...ui-v0.11.1) (2026-06-29)
+
+
+### Bug Fixes
+
+* **ui:** stabilize task property popover handoff ([8fb2e62](https://github.com/tutur3u/platform/commit/8fb2e62904d34a3ae7894bfbbb66c285fcf1a1bd))
+
 ## [0.11.0](https://github.com/tutur3u/platform/compare/ui-v0.10.0...ui-v0.11.0) (2026-06-29)
 
 

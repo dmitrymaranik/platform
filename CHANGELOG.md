@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.16.0](https://github.com/tutur3u/platform/compare/platform-v0.15.0...platform-v0.16.0) (2026-06-29)
+
+
+### Features
+
+* **cron:** add managed cron operations ([24012e6](https://github.com/tutur3u/platform/commit/24012e69771a2be480824aad2916a218afee0d20))
+
+
+### Bug Fixes
+
+* **auth:** show hard IP block support details ([d26684b](https://github.com/tutur3u/platform/commit/d26684b8c7fb2725dacf83a246f08d86ef0e9ef4))
+* **ui:** stabilize task property popover handoff ([8fb2e62](https://github.com/tutur3u/platform/commit/8fb2e62904d34a3ae7894bfbbb66c285fcf1a1bd))
+
 ## [0.15.0](https://github.com/tutur3u/platform/compare/platform-v0.14.0...platform-v0.15.0) (2026-06-29)
 
 

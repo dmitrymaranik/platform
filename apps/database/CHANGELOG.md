@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.13.0](https://github.com/tutur3u/platform/compare/database-v1.12.0...database-v1.13.0) (2026-06-29)
+
+
+### Features
+
+* **cron:** add managed cron operations ([24012e6](https://github.com/tutur3u/platform/commit/24012e69771a2be480824aad2916a218afee0d20))
+
 ## [1.12.0](https://github.com/tutur3u/platform/compare/database-v1.11.0...database-v1.12.0) (2026-06-29)
 
 
